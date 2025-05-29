@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "_id": "1",
       "productId": 1,
@@ -51,4 +50,3 @@
       "description": "Soothing lavender-infused shower gel that gently cleanses without stripping natural oils."
     }
   ]
-}

@@ -30,8 +30,8 @@
       "productId": 3,
       "productTitle": "High Heels",
        "productImages": [
-        { "color": "#000000", "url":  "https://res.cloudinary.com/dlc6paop6/image/upload/v1748563588/High_Heels_xuxovj.png" },
-        { "color": "#ffffff", "url": "https://res.cloudinary.com/dlc6paop6/image/upload/v1748563589/Leather_Handbag_vkyc1z.png" }
+        { "color": "#000000", "url": " https://res.cloudinary.com/dvsgbodmx/image/upload/v1750802696/heels_yr3g3s.png" },
+        { "color": "#91261a", "url":  "https://res.cloudinary.com/dlc6paop6/image/upload/v1748563588/High_Heels_xuxovj.png" }
       ],
       "productPrice": 150,
       "quantity": 60,

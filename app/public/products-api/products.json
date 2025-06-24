@@ -30,7 +30,7 @@
       "productId": 3,
       "productTitle": "High Heels",
        "productImages": [
-        { "color": "#000000", "url": " https://res.cloudinary.com/dvsgbodmx/image/upload/v1750802696/heels_yr3g3s.png" },
+        { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750802696/heels_yr3g3s.png" },
         { "color": "#91261a", "url":  "https://res.cloudinary.com/dlc6paop6/image/upload/v1748563588/High_Heels_xuxovj.png" }
       ],
       "productPrice": 150,

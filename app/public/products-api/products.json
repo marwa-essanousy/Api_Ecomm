@@ -11,18 +11,6 @@
       "category": "accessories",
       "description": "Genuine leather handcrafted bag with spacious compartment..."
     },
-     {
-      "productId": 7,
-      "productTitle":  "Ergonomic School Backpack",
-       "productImages": [
-        { "color": "#d3847b", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864275/handbag1_amqxex.jpg" }
-        { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864264/handbag_ia4usq.jpg" },
-      ],
-      "productPrice": 300,
-      "quantity": 20,
-      "category": "accessories",
-      "description": "Durable and ergonomic backpack for students, with spacious compartments, padded straps, and waterproof material."
-    },
     {
       
       "productId": 2,
@@ -83,5 +71,17 @@
       "quantity": 80,
       "category": "shoes",
       "description": "Comfortable summer sandals..."
-    }
+    },
+     {
+      "productId": 7,
+      "productTitle":  "Ergonomic School Backpack",
+       "productImages": [
+        { "color": "#d3847b", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864275/handbag1_amqxex.jpg" }
+        { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864264/handbag_ia4usq.jpg" },
+      ],
+      "productPrice": 300,
+      "quantity": 20,
+      "category": "accessories",
+      "description": "Durable and ergonomic backpack for students, with spacious compartments, padded straps, and waterproof material."
+    },
   ]

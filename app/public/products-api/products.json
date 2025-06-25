@@ -11,6 +11,18 @@
       "category": "accessories",
       "description": "Genuine leather handcrafted bag with spacious compartment..."
     },
+     {
+      "productId": 10,
+      "productTitle": "Elegant Women's Blouse",
+       "productImages": [
+        { "color": "#c8e9ec", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750867641/blouse1_cmvwgy.jpg" },
+        { "color": "#eeb6b0", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750867633/blouse_ijjywk.jpg" }
+      ],
+      "productPrice": 30,
+      "quantity": 80,
+      "category": "clothing",
+      "description": "Discover sophistication with our Elegant Women's Blouse, a classic button-down shirt designed for both professional elegance and effortless casual style. Made from breathable, high-quality fabric, this blouse ensures all-day comfort while keeping you polished."
+    },
     {
       "productId": 2,
       "productTitle": "School Backpack",

@@ -13,15 +13,15 @@
     },
     {
       "productId": 2,
-      "productTitle": "Summer Dress",
+      "productTitle": "Ergonomic School Backpack",
        "productImages": [
-        { "color": "#000000", "url": "https://res.cloudinary.com/dlc6paop6/image/upload/v1748563589/Summer_Dress_xphnyx.png" },
-        { "color": "#ffffff", "url": "https://res.cloudinary.com/dlc6paop6/image/upload/v1748563589/Leather_Handbag_vkyc1z.png" }
+        { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864275/handbag1_amqxex.jpg" },
+        { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864264/handbag_ia4usq.jpg" }
       ],
       "productPrice": 180,
       "quantity": 35,
-      "category": "clothing",
-      "description": "Lightweight cotton dress with floral patterns for summer..."
+      "category": "accessories",
+      "description": "Durable and ergonomic backpack for students, with spacious compartments, padded straps, and waterproof material."
     },
     {
       "productId": 3,

@@ -94,5 +94,17 @@
       "quantity": 80,
       "category": "accessories",
       "description": "Comfortable summer sandals..."
+    },
+     {
+      "productId": 12,
+      "productTitle": "Watch",
+       "productImages": [
+        { "color": "#000000", "url":  "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750893302/watch1_ryfjoa.png" },
+        { "color": "#ffffff", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750893295/wacth2_t4rqke.png" }
+      ],
+      "productPrice": 30,
+      "quantity": 80,
+      "category": "accessories",
+      "description": "Comfortable summer sandals..."
     }
   ]

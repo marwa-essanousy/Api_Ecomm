@@ -8,7 +8,7 @@
       ],
       "productPrice": 250,
       "quantity": 50,
-      "category": "accessories",
+      "category": "Bags",
       "description": "Genuine leather handcrafted bag with spacious compartment..."
     },
      {
@@ -32,7 +32,7 @@
       ],
       "productPrice": 180,
       "quantity": 35,
-      "category": "accessories",
+      "category": "Bags",
       "description": "Durable and ergonomic backpack for students, with spacious compartments, padded straps, and waterproof material."
     },
     {
@@ -56,7 +56,7 @@
       ],
       "productPrice": 70,
       "quantity": 25,
-      "category": "accessories",
+      "category": "Bags",
       "description": "Trendy bag with adjustable crossbody strap..."
     },
     {
@@ -81,6 +81,18 @@
       "productPrice": 30,
       "quantity": 80,
       "category": "shoes",
+      "description": "Comfortable summer sandals..."
+    },
+     {
+      "productId": 11,
+      "productTitle": "Watch",
+       "productImages": [
+        { "color": "#000000", "url":  "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750892649/watch_tyhxp6.png" },
+        { "color": "#ffffff", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750892649/watch_tyhxp6.png" }
+      ],
+      "productPrice": 30,
+      "quantity": 80,
+      "category": "accessories",
       "description": "Comfortable summer sandals..."
     }
   ]

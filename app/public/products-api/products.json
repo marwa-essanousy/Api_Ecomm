@@ -13,9 +13,9 @@
     },
     {
       "productId": 2,
-      "productTitle": "Ergonomic School Backpack",
+      "productTitle": "School Backpack",
        "productImages": [
-        { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864275/handbag1_amqxex.jpg" },
+        { "color": "#d3847b", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864275/handbag1_amqxex.jpg" },
         { "color": "#000000", "url": "https://res.cloudinary.com/dvsgbodmx/image/upload/v1750864264/handbag_ia4usq.jpg" }
       ],
       "productPrice": 180,
